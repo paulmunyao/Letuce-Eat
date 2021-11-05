@@ -9,3 +9,10 @@
 div>h1{
     color: orange;
 }
+.nav{
+    display: inline;
+    float: right;
+    margin-right: 200px;
+    justify-content: space-between;
+    font-size: 20px;
+}
