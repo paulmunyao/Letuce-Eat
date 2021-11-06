@@ -43,9 +43,11 @@
     background-size: cover;
     background-position: center;
 }
-div p1{
-    border-radius: 0px; color:coral;
+.btn{
+    padding: 5px 25px;
     color: white;
+    font-size: large;
+    background-color: coral;
 }
 
 
