@@ -89,9 +89,12 @@
       border-radius: 0px;
       box-shadow: 0px;
   }
-  /* .drink{
-      float: right;
-  } */
+  .soup{
+      background-image: url("images/image1.png");
+      height: 800px;
+      background-size: cover;
+  }
+  
 
     
 
