@@ -34,6 +34,10 @@
     line-height: 60px;
     color: #ffffff;
 }
+.review{
+    padding: 80px;
+    text-align: center;
+}
 .image{
     height: 500px;
     background-image: url("images/image2.png");
