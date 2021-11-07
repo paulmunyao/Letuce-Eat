@@ -25,6 +25,9 @@
     margin-right: 60px;
     color: white; 
 }
+.nav ul li:hover{
+    color: yellow;
+}
 .nav ul li a{
     padding: 0 32px;
 }
