@@ -109,7 +109,7 @@
   }
   .box{
       box-sizing: border-box; 
-      color: violet;
+      /* color: violet; */
       border-radius: 0px;
       box-shadow: 0px;
   }
