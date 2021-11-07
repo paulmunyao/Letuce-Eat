@@ -16,8 +16,7 @@
     /* background-image: url("images/image2.png"); */
 }
 .nav ul{
-    float: right; 
-     
+    float: right;    
 }
 .nav ul li{
     display: inline-block;
@@ -26,10 +25,8 @@
     margin-right: 60px;
     color: white; 
 }
-.nav ul li:hover{
-    color: yellow;
-}
-.nav ul li a{
+
+.nav ul li a:hover{
     padding: 0 32px;
 }
 .food{
@@ -54,7 +51,9 @@
     font-size: large;
     background-color: coral;
 }
-
+.btn:hover{
+    background-color: yellow;
+}
 .Huduma p{
     text-align: center;
     font-style: italic;
