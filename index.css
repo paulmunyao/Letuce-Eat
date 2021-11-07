@@ -138,9 +138,17 @@
       background-image: url("images/image8.png");
       background-size: cover;
       background-repeat: no-repeat;
+      height: 400px;
   }
   .mutiso{
       background-color: #e5e5e5;
+  }
+  .copy{
+      background-color: black;
+      height: 50px;
+  }
+  .book{
+      padding: 55px 0;
   }
 
 
