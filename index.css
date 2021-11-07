@@ -124,9 +124,12 @@
   }
   .mene{
       text-align: center;
+      background-color: white;
   }
   .mn{
       display: flex;
+      justify-content: space-evenly;
+      margin: 25px;
   }
   .review{
       color: white;
