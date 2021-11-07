@@ -61,14 +61,15 @@
 .fd{
     display: flex;
     background-color: none;
+    justify-content: space-between;
 }
 .cbd{
     background-color: #e5e5e5;
     height: 500px;
 }
 .dot{
-    height: 35px;
-    width: 35px;
+    height: 25px;
+    width: 23px;
     background-color: orange;
     border-radius: 50%;
     display: inline-block;
@@ -76,11 +77,12 @@
     border: 3px;
     display: flex;
     padding: 4px;
-    padding-left: 5px;
+    padding-left: 10px;
     position: relative;
-    margin-top: 25px;
-    font-size: x-large;
+    margin-top: 15px;
+    font-size: medium;
     text-align: center;
+    color: white;
   }
   .card{
       border: 2px solid black;
