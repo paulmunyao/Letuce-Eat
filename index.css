@@ -56,8 +56,16 @@
     font-style: italic;
     font: 3px;
 }
-.btn:hover{
-    background-color:yellow;
+.Huduma{
+    background-color: #e5e5e5;
+}
+.fd{
+    display: flex;
+    background-color: none;
+}
+.cbd{
+    background-color: #e5e5e5;
+    height: 900px;
 }
 .dot{
     height: 35px;
@@ -66,13 +74,21 @@
     border-radius: 50%;
     display: inline-block;
     margin-left: 200px;
-    border: 3px;
+    border: 3px;display: flex;
     padding: 4px;
     padding-left: 5px;
     position: relative;
     margin-top: 15px;
     font-size: x-large;
     text-align: center;
+  }
+  .card{
+      border: 2px solid black;
+      height: 300px;
+      width: 300px;
+      background-color: white;
+      margin-left: 15px;
+      justify-content: center;
   }
   .box h2{
       margin-left: 120px;
