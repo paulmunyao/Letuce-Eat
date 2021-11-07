@@ -135,8 +135,9 @@
       color: white;
   }
   .Gaz{
-      padding-top: -90px;
-      background-color: black;
+      background-image: url("images/image8.png");
+      background-size: cover;
+      background-repeat: no-repeat;
   }
   .mutiso{
       background-color: #e5e5e5;
