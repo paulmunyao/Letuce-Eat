@@ -118,13 +118,18 @@
       background-color: black;
       display: flex;
   }
+  .ige{
+      display: flex;
+      justify-content: space-evenly;
+  }
+  .mene{
+      text-align: center;
+  }
+  .mn{
+      display: flex;
+  }
   .review{
       color: white;
-  }
-  
-  .mene{
-      float: right;
-      margin-right: 850px;
   }
   .Gaz{
       padding-top: -90px;
