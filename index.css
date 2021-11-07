@@ -94,7 +94,8 @@
   .soup{
       background-image: url("images/image1.png");
       height: 800px;
-      background-size: cover;
+      background-size: 40%;
+      background-repeat: no-repeat;
   }
   
 
