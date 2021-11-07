@@ -118,12 +118,17 @@
   .review{
       color: white;
   }
-  .paul{
-      background-color: #e5e5e5;
-  }
+  
   .mene{
       float: right;
       margin-right: 850px;
+  }
+  .Gaz{
+      padding-top: -90px;
+      background-color: black;
+  }
+  .mutiso{
+      background-color: #e5e5e5;
   }
 
 
