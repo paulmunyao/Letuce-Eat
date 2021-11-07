@@ -22,12 +22,8 @@
     display: inline-block;
     list-style: none;
     padding: 0px;
-    margin-right: 60px;
+    margin-right: 120px;
     color: white; 
-}
-
-.nav ul li a:hover{
-    padding: 0 32px;
 }
 .food{
     margin: 30px;
@@ -76,12 +72,13 @@
     background-color: orange;
     border-radius: 50%;
     display: inline-block;
-    margin-left: 200px;
-    border: 3px;display: flex;
+    margin-left: 120px;
+    border: 3px;
+    display: flex;
     padding: 4px;
     padding-left: 5px;
     position: relative;
-    margin-top: 15px;
+    margin-top: 25px;
     font-size: x-large;
     text-align: center;
   }
